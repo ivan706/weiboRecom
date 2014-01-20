@@ -4,7 +4,12 @@
 ###2.然后根目录下执行
 <pre><code>npm install
 </code></pre>
-##更换dm-server的地址
->更改根目录下的<pre>config.json</pre>文件内的地址
-然后在根目录下运行node app.js
 
+###3.更换dm-server的地址
+>更改根目录下的<pre>config.json</pre>文件内的dm-server地址.
+>然后在根目录下运行node app.js.
+
+###4.绑定host
+<pre><code>127.0.0.1 weibo.cctu.com
+</code></pre>
+###5.浏览器访问weibo.cctu.com:3000
