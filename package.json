@@ -1,0 +1,18 @@
+{
+  "name": "cctuweibo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*",
+    "ejs":"*",
+    "request":"*",
+    "async":"*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CCTU",
+  "license": "BSD-2-Clause"
+}
